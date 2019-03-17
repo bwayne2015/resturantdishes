@@ -9,9 +9,8 @@ Techlogies Used:
   3. ORM: Sequalize
   4. Docker
 
-Description: 
-1. The user will have to register himself and then the 
-   user will have login
+Api Description: 
+1. The user will have to register himself and then the user will have login
 How To Install(Without Docker):
   1. Clone the repo
   2. Run npm install
