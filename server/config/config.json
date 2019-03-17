@@ -2,14 +2,14 @@
   "development": {
     "username": "postgres",
     "password": "postgres",
-    "database": "resturantdish",
+    "database": "Your Database Name",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "test": {
-    "username": "postgres",
-    "password": "postgres",
-    "database": "resturantdish",
+    "username": "Your Db User Name",
+    "password": "Your Db Password",
+    "database": "Your Database Name",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
