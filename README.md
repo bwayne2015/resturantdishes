@@ -9,6 +9,9 @@ Techlogies Used:
   3. ORM: Sequalize
   4. Docker
 
+Description: 
+1. The user will have to register himself and then the 
+   user will have login
 How To Install(Without Docker):
   1. Clone the repo
   2. Run npm install
@@ -32,5 +35,7 @@ How To Install(With Docker):
   2. Go to particular directory and run command : docker build -t resturantdishes .
   3. docker run -p 8181:8080 -d resturantdishes
   4. You can now access all the server on port 8181
+
+  
 
 
