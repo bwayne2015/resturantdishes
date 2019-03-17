@@ -24,10 +24,13 @@ How To Install(Without Docker):
 
 How To Run:
   1. Run Command npm start
+
+
+
 How To Install(With Docker):
   1. Install Docker
   2. Go to particular directory and run command : docker build -t resturantdishes .
   3. docker run -p 8181:8080 -d resturantdishes
   4. You can now access all the server on port 8181
-  
+
 
