@@ -11,6 +11,10 @@ Techlogies Used:
 
 Api Description: 
 1. The user will have to register himself and then the user will have login
+2. For making every single Api Call(except registration and login) the token must be sent along in the header.
+   otherwise unAuthorized error will be thrown
+3. the token can even rememner the device if it's sent in the header in the token
+
 How To Install(Without Docker):
   1. Clone the repo
   2. Run npm install
